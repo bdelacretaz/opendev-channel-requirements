@@ -18,6 +18,9 @@ If you're interested, my reading list at https://pinboard.in/u:bdelacretaz/t:ope
 
 I have also written a [Large Mailing Lists Survival Guide](http://blogs.adobe.com/opendev/2014/05/28/large-mailing-lists-survival-guide/) with best practices that are more specific to mailing lists.
 
+## Credits
+All contributions will be duly credited here, of course.
+
 ## Building Blocks
 Let's try to define basic requirements as building blocks that the use cases that follow can refer to.
 
