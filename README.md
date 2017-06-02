@@ -8,7 +8,7 @@ Mailing lists have served us well in the last few decades but they can also be r
 
 However, to this day, I haven't seen a better tool for the types of long-lived and complicated discussions that lead to creating great software.
 
-Newer tools (like Slack in particular, which is trendy these days) are much more convenient and fun to use, but I think they lack support for some of our more complex communications use cases.
+Newer tools (like Slack in particular, which is trendy these days) are much more convenient and fun to use, but I think they lack support for some of our more complex communications use cases, especially for the types of chaotically distributed teams that are the norm in many open source projects.
 
 After arguing many times with colleagues (both at work and in Apache projects) about which tool is best, I think it is useful to forget about the tools for a while, and concentrate on the _collaboration use cases_ that we want to enable.
 
