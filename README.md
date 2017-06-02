@@ -69,7 +69,7 @@ _Challenges_: Each subtopic needs to be clearly identified and segregated, to al
 
 _Requirements_: Just Talk, Precise Quoting, Join Later, Split The Thread, Ignore The Rest
 
-## Polling the community and/or voting
+## Polling the community and/or voting
 _Scenario_:  Present a set of options to the community and let people express their preferences
 
 _Challenges_: For a poll, need reasonable assurance that people will have seen the poll, even if they were absent when it was sent. For a formal vote, might need a formal way for people to confirm that they have seen it.
