@@ -14,11 +14,11 @@ However, to this day, I haven't seen a better tool for the types of long-lived a
 
 Newer tools (like Slack in particular, which is trendy these days) are much more convenient and fun to use, but I think they lack support for some of our more complex communications use cases.
 
-After arguing many times with colleagues (both at work and in Apache projects) about which tool is best, I think it is useful to forget about the tools for a while, and concentrate on the _use cases_ that enable true Open Development, asynchronous decision making and other types of collaboration that make distributed collaboration possible and efficient.
+After arguing many times with colleagues (both at work and in Apache projects) about which tool is best, I think it is useful to forget about the tools for a while, and concentrate on the _collaboration use cases_ that we want to enable.
 
-So here we go - I'll start with a few draft use cases below and we can use the issue tracker of this repository to get contributions who anyone.
+So here we go - I'll start with a few draft use cases below and we can use the issue tracker of this repository to get contributions from anyone who wants to join this discussion.
 
-My reading list at https://pinboard.in/u:bdelacretaz/t:opendevelopment/ has more information on Open Development, as seen by a long-term Apache community member.
+If you're interested, my reading list at https://pinboard.in/u:bdelacretaz/t:opendevelopment/ has more information on Open Development, as seen by a long-term Apache community member.
 
 I have also written a [Large Mailing Lists Survival Guide](http://blogs.adobe.com/opendev/2014/05/28/large-mailing-lists-survival-guide/) with best practices that are more specific to mailing lists.
 
@@ -33,6 +33,7 @@ Let's try to define basic requirements as building blocks that the use cases tha
 * *Split Thread*: split a discussion into several clearly identified subtopics
 * *Voting*: present a set of options and allow people to rank them
 * *Formal Audit*: be able to find and retrieve any discussion thread in its entirety, forever
+* *Categorize Content*: be able to mark existing messages based on their topics, quality, relevance etc.
 
 ## Open Development Communications Channels Use Cases
 
@@ -46,6 +47,13 @@ _Example_: "Does anyone want to join for dinner at Bob's Snails Place today"
 _Challenges_: None
 
 _Requirements_: Just Talk
+
+## Technical Q&A
+_Scenario_: Someone asks a question, several people potentially provide answers of various quality.
+
+_Challenges_: Provide a way to mark the best answers, make it easy to find and refer to previous answers
+
+_Requirements_: Just Talk, Join Later, Categorize Content
 
 ## Discussing a complex technical problem
 _Scenario_:  Describe a complex technical problem and explore possible solutions
