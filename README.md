@@ -43,7 +43,7 @@ _Challenges_: None
 
 _Requirements_: Just Talk
 
-## Technical Q&A
+## Questions and Answers
 _Scenario_: Someone asks a question, several people potentially provide answers of various quality.
 
 _Challenges_: Provide a way to mark the best answers, make it easy to find and refer to previous answers
