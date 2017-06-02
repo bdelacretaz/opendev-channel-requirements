@@ -2,11 +2,7 @@
 
 **tl:dr; Contributions to this (public) list of requirements are welcome, using this repository's issue tracker for discussion**
 
-In Apache projects we say
-
-> If it didn't happen on the dev list, it didn't happen
-
-Meaning that all important technical discussions and decisions about the project _must_ happen on a central shared channel to enable efficient collaboration in globally distributed teams.
+In Apache projects we say _if it didn't happen on the dev list, it didn't happen_ meaning that all important technical discussions and decisions about the project _must_ happen on a central shared channel to enable efficient collaboration in globally distributed teams.
 
 Mailing lists have served us well in the last few decades but they can also be rightly considered an old and clunky tool.
 
@@ -22,15 +18,14 @@ If you're interested, my reading list at https://pinboard.in/u:bdelacretaz/t:ope
 
 I have also written a [Large Mailing Lists Survival Guide](http://blogs.adobe.com/opendev/2014/05/28/large-mailing-lists-survival-guide/) with best practices that are more specific to mailing lists.
 
-## Building Blocks
-
+## Building Blocks
 Let's try to define basic requirements as building blocks that the use cases that follow can refer to.
 
 * *Just Talk* : exchange message with others with reasonable assurance that they can read and reply to them
 * *Precise Quoting*: be able to indicate very precisely which part of the previous message you are replying to.
 * *Join Later*: be able to join a discussion efficiently much later than it started, without losing context
 * *Ignore The Rest*: efficiently mute the parts of the overall conversation that are not relevant to you
-* *Split Thread*: split a discussion into several clearly identified subtopics
+* *Split The Thread*: split a discussion into several clearly identified subtopics
 * *Voting*: present a set of options and allow people to rank them
 * *Formal Audit*: be able to find and retrieve any discussion thread in its entirety, forever
 * *Categorize Content*: be able to mark existing messages based on their topics, quality, relevance etc.
@@ -72,7 +67,7 @@ _Scenario_: A discussion that started a while ago needs to be split into several
 
 _Challenges_: Each subtopic needs to be clearly identified and segregated, to allow people from ignoring the subtopics that are not relevant to them.
 
-_Requirements_: Just Talk, Precise Quoting, Join Later, Split Thread, Ignore The Rest
+_Requirements_: Just Talk, Precise Quoting, Join Later, Split The Thread, Ignore The Rest
 
 ## Polling the community and/or voting
 _Scenario_:  Present a set of options to the community and let people express their preferences
