@@ -25,7 +25,7 @@ All contributions will be duly credited here, of course.
 Let's try to define basic requirements as building blocks that the use cases that follow can refer to.
 
 * *Just Talk* : exchange message with others with reasonable assurance that they can read and reply to them
-* *Precise Quoting*: be able to indicate very precisely which part of the previous message you are replying to.
+* *Precise Quoting*: be able to indicate very precisely which part of the previous message you are replying to. Also known as [Usenet Quoting](https://en.wikipedia.org/wiki/Usenet_quoting) in email.
 * *Join Later*: be able to join a discussion efficiently much later than it started, without losing context
 * *Ignore The Rest*: efficiently mute the parts of the overall conversation that are not relevant to you
 * *Split The Thread*: split a discussion into several clearly identified subtopics
