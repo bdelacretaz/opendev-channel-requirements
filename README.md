@@ -53,8 +53,8 @@ _Challenges_: Provide a way to mark the best answers, make it easy to find and r
 
 _Requirements_: Just Talk, Join Later, Categorize Content
 
-## Discussing a complex technical problem
-_Scenario_:  Describe a complex technical problem and explore possible solutions
+## Brainstorming a complex technical topic
+_Scenario_:  Describe a complex technical topic and explore possible solutions
 
 _Challenges_: 
 The discussion can last for a long time and people need thinking time, so there might be large gaps during which nothing happens, and the discussion picks up again later.
@@ -64,6 +64,25 @@ People might be absent when the discussion starts but might have relevant input 
 In a long-lived project, such complex discussions can reoccur regularly, in which case it must be easy to point people to the prior occurences.
 
 _Requirements_: Just Talk, Precise Quoting, Join Later
+
+## Building Consensus
+_Scenario_ : Once the brainstorming and options definitions are over, move forward with consensus building. 
+
+_Challenges_: 
+The discussion can last for a some time, people might be absent during part of it but need to be able to review and join the discussion efficiently at any time.
+
+The consensus building discussion needs to be archived and easy to find later, as it is the core of the decision making process. A lack of indexed archives might lead to having to explain things again later.
+
+_Requirements_: Just Talk, Precise Quoting, Join Later, Formal Audit
+
+## Making a Decision
+_Scenario_ : Once the consensus building phase is over, make a decision either from an obvious consensus or by voting if needed.
+
+_Challenges_: 
+This phase needs to be archived and easy to find later, like the consensus building phase, for the same reasons and also to have a formal trace of the decision.
+
+_Requirements_: Just Talk, Precise Quoting, Join Later, Voting, Formal Audit
+
 
 ## Discussion that forks into a tree
 _Scenario_: A discussion that started a while ago needs to be split into several subtopics, without losing context and history for any of them. Each subtopic might be a complex discussion.
