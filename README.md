@@ -10,7 +10,7 @@ However, to this day, I haven't seen a better tool for the types of long-lived a
 
 Newer tools (like Slack in particular, which is trendy these days) are much more convenient and fun to use, but I think they lack support for some of our more complex communications use cases, especially for the types of chaotically distributed teams that are the norm in many open source projects.
 
-Mailing lists can also be very inefficient if used the wrong way, with sloppy quoting, vague subject lines and multiple topics per thread. The [Large Mailing Lists Survival Guide](http://blogs.adobe.com/opendev/2014/05/28/large-mailing-lists-survival-guide/) that I wrote for our Adobe open development blog lists best practices for using them, and shows that you need lots of discipline for them to work well.
+Mailing lists can also be very inefficient if used the wrong way, with sloppy quoting, vague subject lines and multiple topics per thread. The [Large Mailing Lists Survival Guide](https://grep.codeconsult.ch/2017/11/10/large-mailing-lists-survival-guide/) that I wrote for our Adobe open development blog lists best practices for using them, and shows that you need lots of discipline for them to work well.
 
 After arguing many times with colleagues (both at work and in Apache projects) about which tool is best, I think it is useful to forget about the tools for a while, and concentrate on the _collaboration use cases_ that we want to enable.
 
